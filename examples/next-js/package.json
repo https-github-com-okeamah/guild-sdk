@@ -19,7 +19,7 @@
     "react-dom": "latest",
     "swr": "^2.2.4",
     "viem": "^1.12.2",
-    "wagmi": "^1.4.2"
+    "wagmi": "^2.19.2"
   },
   "devDependencies": {
     "@types/node": "latest",
